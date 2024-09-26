@@ -1,9 +1,9 @@
 # Miscellaneous functions
 
 ## 1. Description
-This package contains a variety of miscellaneous, independent sandbox scripts.
+This package contains a variety of miscellaneous, independent sandbox scripts and notebooks.
 
 The code is written in Python 3.
 
 ## 2. Author
-This code was written by: Colleen Gillon (colleen _dot_ gillon _at_ mail _dot_ utoronto _dot_ ca)
+This code was written and/or adapted by Colleen Gillon.
